@@ -1,3 +1,3 @@
 cap-project-shopster
 <br/>
-- The details of project are mentioned in cap-project-details.
+- The details of project are mentioned in cap-project-details.pdf.
